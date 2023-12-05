@@ -5,7 +5,6 @@ import {db} from '../services/firebase';
 import {Spinner} from 'reactstrap'
 
 const ItemListContainerHome = () => {
-
     //Lista de productos
     const [productsList, setProductos] = useState([]);
     //Tiempo de espera para utilizarlo con spinner
@@ -32,7 +31,8 @@ const ItemListContainerHome = () => {
         <>
         {loadData ? <div className='spinner'>< Spinner/></div> : 
             <section>
-                <p className='cat_title'>The Collection</p>
+                <p className='cat_title'>Surrender To The Flavor</p>
+                <h4>New Products</h4>
                 <ItemListHome productsList={productsList}/>
             </section>    
         }

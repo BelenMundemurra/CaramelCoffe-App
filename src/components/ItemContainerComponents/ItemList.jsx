@@ -4,7 +4,7 @@ import Item from '../ItemContainerComponents/Item';
 //Lista de productos
 const ItemList = ({productsList}) => {
     return (
-        <div className='row cat-product'>
+        <div className='row cat-product products-shop'>
             {productsList.map((product) => <Item key={product.id} el={product}/>)}
         </div>
     );

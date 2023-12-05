@@ -32,7 +32,7 @@ const ItemListContainer = () => {
         <>
         {loadData ? <div className='spinner'>< Spinner/></div> : 
             <section>
-                <p className='cat_title shop-title'>The Collection</p>
+                <p className='cat_title shop-title'>Shop</p>
                 <ItemList productsList={productsList}/>
             </section>    
         }

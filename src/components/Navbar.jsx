@@ -12,7 +12,7 @@ function NavbarComp() {
       {['lg'].map((expand) => (
         <Navbar key={expand} bg="light" expand={expand} className="mb-3">
           <Container fluid>
-            <NavLink className='navbar-brand' to="/">UNUSUAL</NavLink>
+            <NavLink className='navbar-brand' to="/">CARAMEL COFFE</NavLink>
             <Navbar.Toggle aria-controls={`offcanvasNavbar-expand-${expand}`} />
             <Navbar.Offcanvas
               id={`offcanvasNavbar-expand-${expand}`}
@@ -21,7 +21,7 @@ function NavbarComp() {
             >
               <Offcanvas.Header closeButton>
                 <Offcanvas.Title id={`offcanvasNavbarLabel-expand-${expand}`}>
-                  UNUSUAL
+                  CARAMEL COFFE
                 </Offcanvas.Title>
               </Offcanvas.Header>
               <Offcanvas.Body>

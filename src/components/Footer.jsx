@@ -10,7 +10,7 @@ function Footer() {
                 <NavLink className="nav-info" to="/">more info</NavLink>
             </div>
             <div className='footer-logo'>
-                <p>UNUSUAL</p>
+                <p>Caramel Coffe</p>
             </div>
             <div>
                 <NavLink className="nav-link" to="/">HOME</NavLink>
