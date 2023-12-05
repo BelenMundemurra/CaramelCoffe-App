@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/caramelcoffe-app/static/css/main.39e98171.css",
-    "main.js": "/caramelcoffe-app/static/js/main.cd25fcbb.js",
-    "index.html": "/caramelcoffe-app/index.html",
-    "main.39e98171.css.map": "/caramelcoffe-app/static/css/main.39e98171.css.map",
-    "main.cd25fcbb.js.map": "/caramelcoffe-app/static/js/main.cd25fcbb.js.map"
+    "main.css": "/CaramelCoffe-App/static/css/main.39e98171.css",
+    "main.js": "/CaramelCoffe-App/static/js/main.973db7a9.js",
+    "index.html": "/CaramelCoffe-App/index.html",
+    "main.39e98171.css.map": "/CaramelCoffe-App/static/css/main.39e98171.css.map",
+    "main.973db7a9.js.map": "/CaramelCoffe-App/static/js/main.973db7a9.js.map"
   },
   "entrypoints": [
     "static/css/main.39e98171.css",
-    "static/js/main.cd25fcbb.js"
+    "static/js/main.973db7a9.js"
   ]
 }
