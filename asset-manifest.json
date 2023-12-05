@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/caramelcoffe-app/static/css/main.39e98171.css",
+    "main.js": "/caramelcoffe-app/static/js/main.cd25fcbb.js",
+    "index.html": "/caramelcoffe-app/index.html",
+    "main.39e98171.css.map": "/caramelcoffe-app/static/css/main.39e98171.css.map",
+    "main.cd25fcbb.js.map": "/caramelcoffe-app/static/js/main.cd25fcbb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39e98171.css",
+    "static/js/main.cd25fcbb.js"
+  ]
+}
