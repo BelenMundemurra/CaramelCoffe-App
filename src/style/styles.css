@@ -560,7 +560,11 @@ body {
     text-align: start;
   }
 }
-
+@media only screen and (max-width: 1172px) { 
+  .products-shop {
+    height: fit-content;
+  }
+}
 /*# sourceMappingURL=styles.css.map */
 @media only screen and (max-width: 768px) {
   .home .container-fluid img {
